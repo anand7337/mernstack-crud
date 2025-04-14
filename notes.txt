@@ -1,0 +1,27 @@
+React Crud
+
+backend setup
+1. npm init
+2. npm i express
+3. npm i nodemon
+
+
+
+
+
+
+
+Frontend setup
+
+npm i axios
+
+field {name, email, mobile number, Date of birth, select box male or female,address, profile pic }
+learnig aws and git
+
+https://www.youtube.com/watch?v=l5DsNB_0Kw0 login authentication
+https://www.youtube.com/watch?v=EWiGN9eFIF4&t=3094s
+
+
+
+Login
+npm i express,nodemon,mongoose,bcrypt,morgan,jsonwebtoken
